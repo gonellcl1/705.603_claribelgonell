@@ -59,6 +59,13 @@ To download the repository image:
 * Run a new container for the image. There are no ports exposed in the repository image. 
 * The image is now in your host docker repository
 
+* To access the image in your local repository: 
+  ```sh
+  $ docker run –v <host directory>:/output <REPOSTIORY>:<IMAGENAME>
+  ```
+   ```sh
+  $ docker run –v <host directory>:/output gonellcl/705.603_cgonell:latest
+  ```
 
 <!-- CONTACT -->
 ## Contact
