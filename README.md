@@ -56,8 +56,8 @@ To download the repository image:
   docker pull gonellcl/705.603_cgonell:latest
   ```
 * select RUN
-* Run a new container for the image. There are no ports exposed in the repository image
-
+* Run a new container for the image. There are no ports exposed in the repository image. 
+* The image is now in your host docker repository
 
 
 <!-- CONTACT -->
