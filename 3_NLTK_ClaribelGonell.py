@@ -2,6 +2,8 @@ import pandas as pd
 from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 from nltk.stem import WordNetLemmatizer
+import nltk
+nltk.download('punkt')
 
 ps = PorterStemmer()
 wl = WordNetLemmatizer()
