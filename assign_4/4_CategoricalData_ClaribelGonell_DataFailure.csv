@@ -1,0 +1,15 @@
+Data Failure,Solution,Disadvantage/Considerations
+Missing Data,Fill Nan/Missing Data values with mean value of column,Distribution and Centrality of Data - mode or median may be better options
+Wrong format,Replace boolean values w/ 0 or 1 encoding,numerical disparity 
+Useless,Drop Model name column,"Objective is to create ANN and classification is baed on many categories and integer values. We dropped model name because there are 1,118 unique values which may affect overfitting/underfitting. "
+Erronous/deceptive/bias/static/wrong format,Do not delete the 9 features w/o names,"While it was difficult to tell what the unnamed features were, after closer investigation (and w/ the help of google colab and google translate), I was able to identify the missing features. The regions along with the rear-drive, diesel, electric, or gas identifiers could be useful for understanding tendencies towards certain vehicle types over others. However, if we are to consider these features we should also consider the model names (as there could be some insightful unveilings). For practical reasons, I would assume the rear, diesel, elec, gas features (which were re-formatted to boolean values) would be the most useful however a close study of these different regions in Russia could provide insight on what types of cars people in particular regions gravitate towards. "
+,Feature 0,d_rear
+,Feature 1,l'Brest region
+,Feature 2,l'Vitebsk region
+,Feature 3,l'Gomel region
+,Feature 4,l'Grodno region
+,Feature 5,l'Minsk region
+,Feature 6,l'Mogilev region
+,Feature 7,n_diesel
+,Feature 8,n_elec
+,Feature 9,n_gas
