@@ -11,44 +11,9 @@
 -->
 
 
+<!-- ASSIGNMENT 3 -->
+## Assignment 3
 
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#instructions">Instructions</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-Welcome to my first portfolio! This repository will contain all of the relevant module assignment files for grading and review. 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To access the specific image that is tied to this repository, please download its associated image. 
-
-<!-- INSTRUCTIONS -->
-
-### Instructions
 
 To download the repository image: 
 * copy pull command for latest
@@ -66,6 +31,20 @@ To download the repository image:
    ```sh
   $ docker run –v <host directory>:/output gonellcl/705.603_cgonell:latest
   ```
+To access the specific image that is tied to this repository, please download its associated image. 
+
+
+<!-- ASSIGNMENT 4 -->
+## Assignment 4
+
+
+<!-- ASSIGNMENT 6 -->
+## Assignment 6
+
+
+<!-- ASSIGNMENT 10 -->
+## Assignment 10
+
 
 <!-- CONTACT -->
 ## Contact
@@ -74,7 +53,6 @@ Claribel Gonell  - cgonell1@jh.edu.
 
 Project Link: [https://github.com/gonellcl1/705.603_claribelgonell](https://github.com/gonellcl1/705.603_claribelgonell)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -82,7 +60,6 @@ Project Link: [https://github.com/gonellcl1/705.603_claribelgonell](https://gith
 ## Acknowledgments
 
 * [othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
-* []()
-* []()
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
