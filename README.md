@@ -79,6 +79,10 @@ Best Suitable For: Everything else.
 <!-- ASSIGNMENT 10 -->
 ## Assignment 10
 
+The assignment explores AWS Sagemaker to build, train, and deploy reinforcement learning models. A local and AWS implementation of Blackjack RL (https://trevormcguire.medium.com/blackjack-stocks-and-reinforcement-learning-ea4014115aeb) are deployed. The local RL code is adapted to use AWS's virtual machine for training and developing an exposed web service.  
+
+
+
 <!-- ASSIGNMENT 12-->
 ## Systems Project
 
