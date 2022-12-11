@@ -10,7 +10,10 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
+<!-- ASSIGNMENT 3 -->
+## About the Portfolio
 
+The portfolio is comprised of assignments that are required to be uploaded on GitHub. 
 <!-- ASSIGNMENT 3 -->
 ## Assignment 3
 The assignment tokenizes, stems, and lemmatizes the summary column of Amazon musical instrument review data (https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews).
