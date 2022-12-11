@@ -36,6 +36,7 @@ To download the repository image:
   ```
 To access the specific image that is tied to this repository, please download its associated image. 
 
+Docker Hub: https://hub.docker.com/repository/docker/gonellcl/705.603_cgonell 
 
 <!-- ABOUT THE ASSIGNMENT -->
 ## Assignment 4
