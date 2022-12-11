@@ -6,7 +6,7 @@ Module 6 - Assignment 6
 ## About Assignment 6
 
 The Assignment uses MongoDB (a NoSQL document database) and Neo4J (a NoSQL graphical database) to store speed dating data. The data is then prepared to create a supervised machine learning model that predicts a match. The following models were used: Random Forest Classifier, Support Vector Machine, and Gaussian Naive Bayes.
-The Suport Vector Machine provided the highest accuracy scores. 
+SVM produced the highest vaildation metric accuracy. 
 
 Contrasting MongoDB vs. Neo4J
 
