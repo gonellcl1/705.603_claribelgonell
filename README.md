@@ -45,6 +45,25 @@ To access the specific image that is tied to this repository, please download it
 <!-- ASSIGNMENT 10 -->
 ## Assignment 10
 
+<!-- ASSIGNMENT 12-->
+## Systems Project
+
+To download the repository image: 
+* copy pull command for latest
+  ```sh
+  docker pull gonellcl/systems_proj
+  ```
+* select RUN
+* Run a new container for the image. There are no ports exposed in the repository image. 
+* The image is now in your host docker repository
+
+* To access the image in your local repository: 
+  ```sh
+  $ docker run –v <host directory>:/output <REPOSTIORY>:<IMAGENAME>
+  ```
+   ```sh
+  $ docker run –v <host directory>:/output gonellcl/systems_proj:latest
+  ```
 
 <!-- CONTACT -->
 ## Contact
