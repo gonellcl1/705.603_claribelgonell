@@ -27,15 +27,6 @@ Disadvantages: cannot create relationships
 Best Suitable For: Everything else.
 
 
-<!-- GETTING STARTED -->
-## Links
-
-Github: https://github.com/gonellcl1/705.603_claribelgonell/blob/master/assign_4/4_CategoricalData_ClaribelGonell.ipynb
-
-Google Colab: https://colab.research.google.com/drive/1cfheLpJ6vjM7iU1IrfcK7Wxjk3ocWaRI?usp=sharing
-
-
-
 <!-- CONTACT -->
 ## Contact
 
