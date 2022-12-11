@@ -1,4 +1,5 @@
 # 705.603 - AI Enabled Systems: Claribel Gonell
+Module 4 - Assignment 3
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -12,33 +13,9 @@
 
 
 
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#instructions">Instructions</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE ASSIGNMENT -->
 ## About The Project
-Welcome to my first portfolio! This repository will contain all of the relevant module assignment files for grading and review. 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+The assignment tokenizes, stems, and lemmatizes the summary column of Amazon musical instrument review data (https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews).
 
 
 <!-- GETTING STARTED -->
@@ -72,9 +49,7 @@ To download the repository image:
 
 Claribel Gonell  - cgonell1@jh.edu.
 
-Project Link: [https://github.com/gonellcl1/705.603_claribelgonell](https://github.com/gonellcl1/705.603_claribelgonell)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Assignment: [https://github.com/gonellcl1/705.603_claribelgonell](https://github.com/gonellcl1/705.603_claribelgonell)
 
 
 
@@ -82,7 +57,6 @@ Project Link: [https://github.com/gonellcl1/705.603_claribelgonell](https://gith
 ## Acknowledgments
 
 * [othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
-* []()
-* []()
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
