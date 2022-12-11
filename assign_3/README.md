@@ -14,7 +14,7 @@ Module 4 - Assignment 3
 
 
 <!-- ABOUT THE ASSIGNMENT -->
-## About The Project
+## Assignment 3
 The assignment tokenizes, stems, and lemmatizes the summary column of Amazon musical instrument review data (https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews).
 
 
