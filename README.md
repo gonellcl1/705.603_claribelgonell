@@ -13,7 +13,7 @@
 
 <!-- ASSIGNMENT 3 -->
 ## Assignment 3
-
+The assignment tokenizes, stems, and lemmatizes the summary column of Amazon musical instrument review data (https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews).
 
 To download the repository image: 
 * copy pull command for latest
