@@ -1,4 +1,4 @@
-# 705.603 - Creating AI Enabled Systems: Portfolio By Claribel Gonell
+# 705.603 - Creating AI Enabled Systems: Portfolio
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -108,7 +108,7 @@ To download the repository image:
 
 Claribel Gonell  - cgonell1@jh.edu.
 
-Project Link: [https://github.com/gonellcl1/705.603_claribelgonell](https://github.com/gonellcl1/705.603_claribelgonell)
+Repository Link: [https://github.com/gonellcl1/705.603_claribelgonell](https://github.com/gonellcl1/705.603_claribelgonell)
 
 
 
